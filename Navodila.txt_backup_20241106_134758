@@ -1,0 +1,9 @@
+Napišite skripto, ki uporabnika vpraša za njegovo ime in starost. Če je starost uporabnika manjša od 18, naj skripta izpiše posebno sporočilo, drugače naj izpiše običajen pozdrav.
+Ustvarite skripto, ki prešteje število datotek v trenutnem imeniku, filtrira datoteke glede na njihovo končnico (npr. .txt datoteke) in izpiše to število.
+Napišite skripto, ki kot argument prejme več imen datotek in za vsako izpiše njeno končnico. Če je datoteka brez končnice, naj skripta to tudi zabeleži. (1 točka)
+Ustvarite skripto, ki izračuna skupno velikost imenika, izpiše velikost v človeško berljivem formatu in omogoči uporabniku, da izbere, ali želi vključiti skrite datoteke v izračun.
+Napišite skripto, ki kot vhod prejme seznam celih števil in za vsako število določi, ali je sodo ali liho. Na koncu naj skripta izpiše povzetek, koliko sodih in koliko lihih števil je bilo vnešenih. 
+Ustvarite osnovno skripto za kalkulator, ki lahko izvaja seštevanje, odštevanje, množenje in deljenje več števil, ki jih prejme kot argumente, ter omogoči uporabniku, da izbere željeno operacijo. 
+Ustvarite skripto, ki kot vhod prejme več imen datotek in ustvari varnostno kopijo vsake datoteke s časovnim žigom. Skripta naj preveri, ali datoteke že obstajajo, ter opozori uporabnika, če je varnostna kopija že bila ustvarjena v zadnjih 24 urah.
+Napišite skripto, ki preveri dovoljenja za več datotek, ki jih prejme kot argumente, in izpiše za vsako datoteko, ali je berljiva, zapisljiva in/ali izvedljiva. Poleg tega naj skripta preveri, ali so dovoljenja ustrezna za trenutno uporabniško vlogo (lastnik, skupina, drugi).
+Napišite skripto, ki kot vhod prejme datotečno pot imenika in za vsak podimenik ustvari kompresirano arhivsko datoteko (.tar.gz) s časovnim žigom. Če je arhiv že bil ustvarjen za podimenik v zadnjih 7 dneh, naj se arhiviranje ne izvede.
